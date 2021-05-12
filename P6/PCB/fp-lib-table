@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name SofleKeyboard-footprint)(type KiCad)(uri /home/josef/projekty/keyboards/SofleKeyboard/footprints/SofleKeyboard-footprint.pretty)(options "")(descr ""))
+  (lib (name Keebio)(type KiCad)(uri /home/josef/projekty/keyboards/Keebio-Parts.pretty)(options "")(descr ""))
+  (lib (name SSD1306)(type KiCad)(uri C:/Users/Evan/Desktop/library/SSD1306.pretty)(options "")(descr ""))
+)
